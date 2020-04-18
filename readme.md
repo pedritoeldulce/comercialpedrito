@@ -1,0 +1,3 @@
+## Secciones quitadas
+- about
+- contact
